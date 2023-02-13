@@ -1,0 +1,15 @@
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\bin\Debug\net6.0\DailyKata.exe
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\bin\Debug\net6.0\DailyKata.deps.json
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\bin\Debug\net6.0\DailyKata.runtimeconfig.json
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\bin\Debug\net6.0\DailyKata.dll
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\bin\Debug\net6.0\DailyKata.pdb
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.csproj.AssemblyReference.cache
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.AssemblyInfoInputs.cache
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.AssemblyInfo.cs
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.csproj.CoreCompileInputs.cache
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.dll
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\refint\DailyKata.dll
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.pdb
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\DailyKata.genruntimeconfig.cache
+C:\Users\JDuong\source\repos\DailyKata\DailyKata\obj\Debug\net6.0\ref\DailyKata.dll
